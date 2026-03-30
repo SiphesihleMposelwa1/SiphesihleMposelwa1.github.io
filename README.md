@@ -1,10 +1,10 @@
 # SiphesihleMposelwa1.github.io
 # Siphesihle Mposelwa
 # Contact
-📞 062 139 8260
-📧 [222330325@mycput.ac.za](mailto:222330325@mycput.ac.za)
-🔗 [GitHub](https://github.com/SiphesihleMposelwa1)
-🔗 [LinkedIn](https://www.linkedin.com/in/siphesihle-mposelwa-122b35235/)
+ 062 139 8260
+ [222330325@mycput.ac.za](mailto:222330325@mycput.ac.za)
+ [GitHub](https://github.com/SiphesihleMposelwa1)
+ [LinkedIn](https://www.linkedin.com/in/siphesihle-mposelwa-1b1418255/)
 
 ---
 
