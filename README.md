@@ -39,7 +39,6 @@ Diploma in ICT: Applications Development *(Current – 2026)*
 * MySQL
 
 
-### 📚 Concepts
 
 
 ---
